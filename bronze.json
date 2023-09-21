@@ -1,0 +1,88 @@
+{
+	"records":[
+		{
+			"question":"2 x 1 =",
+			"answer":2
+		},
+		{
+			"question":"5 x 3 =",
+			"answer":15
+		},
+		{
+			"question":"5 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"10 x 4 =",
+			"answer":40
+		},
+		{
+			"question":"3 x 2 =",
+			"answer":6
+		},
+		{
+			"question":"3 x 5 =",
+			"answer":15
+		},
+		{
+			"question":"2 x 10 =",
+			"answer":20
+		},
+		{
+			"question":"1 x 5 =",
+			"answer":5
+		},
+		{
+			"question":"2 x 2 =",
+			"answer":4
+		},
+		{
+			"question":"5 x 10 =",
+			"answer":50
+		},
+		{
+			"question":"10 x 1 =",
+			"answer":10
+		},
+		{
+			"question":"3 x 3 =",
+			"answer":9
+		},
+		{
+			"question":"4 x 5 =",
+			"answer":20
+		},
+		{
+			"question":"10 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"3 x 10 =",
+			"answer":30
+		},
+		{
+			"question":"4 x 5 =",
+			"answer":20
+		},
+		{
+			"question":"4 x 2 =",
+			"answer":8
+		},
+		{
+			"question":"5 x 2 =",
+			"answer":10
+		},
+		{
+			"question":"5 x 5 =",
+			"answer":25
+		},
+		{
+			"question":"2 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"2 x 0 =",
+			"answer":0
+		}
+	]
+}

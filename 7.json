@@ -1,0 +1,412 @@
+{
+	"records":[
+		{
+			"question":"160 ÷ 2 =",
+			"answer":80
+		},
+		{
+			"question":"200 x 4 =",
+			"answer":800
+		},
+		{
+			"question":"500 x 5 =",
+			"answer":2500
+		},
+		{
+			"question":"420 ÷ 60 =",
+			"answer":7
+		},
+		{
+			"question":"800 x 5 =",
+			"answer":4000
+		},
+		{
+			"question":"720 ÷ 9 =",
+			"answer":80
+		},
+		{
+			"question":"90 ÷ 30 =",
+			"answer":3
+		},
+		{
+			"question":"120 ÷ 30 =",
+			"answer":4
+		},
+		{
+			"question":"80 x 40 =",
+			"answer":3200
+		},
+		{
+			"question":"1000 ÷ 20 =",
+			"answer":50
+		},
+		{
+			"question":"108 ÷ 9 =",
+			"answer":12
+		},
+		{
+			"question":"240 ÷ 60 =",
+			"answer":4
+		},
+		{
+			"question":"90 x 400 =",
+			"answer":36000
+		},
+		{
+			"question":"500 x 6 =",
+			"answer":30000
+		},
+		{
+			"question":"350 ÷ 50 =",
+			"answer":7
+		},
+		{
+			"question":"5 x 700 =",
+			"answer":3500
+		},
+		{
+			"question":"80 x 30 =",
+			"answer":2400
+		},
+		{
+			"question":"900 x 2 =",
+			"answer":1800
+		},
+		{
+			"question":"640 ÷ 8 =",
+			"answer":80
+		},
+		{
+			"question":"400 x 7 =",
+			"answer":2800
+		},
+		{
+			"question":"320 ÷ 80 =",
+			"answer":4
+		},
+		{
+			"question":"20 x 500 =",
+			"answer":10000
+		},
+		{
+			"question":"3600 ÷ 12 =",
+			"answer":300
+		},
+		{
+			"question":"960 ÷ 80 =",
+			"answer":12
+		},
+		{
+			"question":"490 ÷ 7 =",
+			"answer":70
+		},
+		{
+			"question":"6 x 600 =",
+			"answer":3600
+		},
+		{
+			"question":"360 ÷ 6 =",
+			"answer":60
+		},
+		{
+			"question":"1000 ÷ 10 =",
+			"answer":100
+		},
+		{
+			"question":"400 x 4 =",
+			"answer":1600
+		},
+		{
+			"question":"2800 ÷ 7 =",
+			"answer":400
+		},
+		{
+			"question":"80 x 100 =",
+			"answer":8000
+		},
+		{
+			"question":"840 ÷ 120 =",
+			"answer":7
+		},
+		{
+			"question":"42 ÷ 7 =",
+			"answer":6
+		},
+		{
+			"question":"5400 ÷ 90 =",
+			"answer":60
+		},
+		{
+			"question":"2 x 12000 =",
+			"answer":24000
+		},
+		{
+			"question":"2500 ÷ 5 =",
+			"answer":500
+		},
+		{
+			"question":"8 x 1000 =",
+			"answer":8000
+		},
+		{
+			"question":"120 x 9 =",
+			"answer":1080
+		},
+		{
+			"question":"50 x 80 =",
+			"answer":4000
+		},
+		{
+			"question":"180 ÷ 30 =",
+			"answer":6
+		},
+		{
+			"question":"400 x 30 =",
+			"answer":12000
+		},
+		{
+			"question":"900 x 7 =",
+			"answer":6300
+		},
+		{
+			"question":"80 x 90 =",
+			"answer":7200
+		},
+		{
+			"question":"9 x 400 =",
+			"answer":3600
+		},
+		{
+			"question":"60 x 500 =",
+			"answer":9000
+		},
+		{
+			"question":"7 x 600 =",
+			"answer":4200
+		},
+		{
+			"question":"80 x 20 =",
+			"answer":1600
+		},
+		{
+			"question":"400 ÷ 5 =",
+			"answer":80
+		},
+		{
+			"question":"320 ÷ 40 =",
+			"answer":8
+		},
+		{
+			"question":"400 x 9 =",
+			"answer":3600
+		},
+		{
+			"question":"80 x 40 =",
+			"answer":3200
+		},
+		{
+			"question":"70 x 8 =",
+			"answer":560
+		},
+		{
+			"question":"1200 x 4 =",
+			"answer":4800
+		},
+		{
+			"question":"110 x 6 =",
+			"answer":660
+		},
+		{
+			"question":"480 ÷ 60 =",
+			"answer":8
+		},
+		{
+			"question":"300 x 9 =",
+			"answer":2700
+		},
+		{
+			"question":"80 x 80 =",
+			"answer":6400
+		},
+		{
+			"question":"600 ÷ 3 =",
+			"answer":200
+		},
+		{
+			"question":"400 x 9 =",
+			"answer":3600
+		},
+		{
+			"question":"2700 ÷ 3 =",
+			"answer":900
+		},
+		{
+			"question":"600 x 40 =",
+			"answer":24000
+		},
+		{
+			"question":"500 x 8 =",
+			"answer":4000
+		},
+		{
+			"question":"9000 x 5 =",
+			"answer":45000
+		},
+		{
+			"question":"600 x 12 =",
+			"answer":7200
+		},
+		{
+			"question":"12 x 90 =",
+			"answer":1080
+		},
+		{
+			"question":"8000 ÷ 2 =",
+			"answer":4000
+		},
+		{
+			"question":"350 ÷ 5 =",
+			"answer":70
+		},
+		{
+			"question":"640 ÷ 8 =",
+			"answer":80
+		},
+		{
+			"question":"90 x 30 =",
+			"answer":2700
+		},
+		{
+			"question":"200 x 90 =",
+			"answer":18000
+		},
+		{
+			"question":"60 x 30 =",
+			"answer":1800
+		},
+		{
+			"question":"7 x 4 =",
+			"answer":28
+		},
+		{
+			"question":"900 ÷ 9 =",
+			"answer":100
+		},
+		{
+			"question":"56 ÷ 7 =",
+			"answer":8
+		},
+		{
+			"question":"700 x 3 =",
+			"answer":2100
+		},
+		{
+			"question":"100 ÷ 50 =",
+			"answer":2
+		},
+		{
+			"question":"440 ÷ 4 =",
+			"answer":110
+		},
+		{
+			"question":"800 x 9 =",
+			"answer":7200
+		},
+		{
+			"question":"1200 x 2 =",
+			"answer":2400
+		},
+		{
+			"question":"360 ÷ 9 =",
+			"answer":40
+		},
+		{
+			"question":"300 x 3 =",
+			"answer":900
+		},
+		{
+			"question":"700 x 6 =",
+			"answer":4200
+		},
+		{
+			"question":"4 x 9000 =",
+			"answer":36000
+		},
+		{
+			"question":"800 x 2 =",
+			"answer":1600
+		},
+		{
+			"question":"1800 ÷ 6 =",
+			"answer":300
+		},
+		{
+			"question":"4000 x 1 =",
+			"answer":4000
+		},
+		{
+			"question":"70 ÷ 7 =",
+			"answer":10
+		},
+		{
+			"question":"30 x 8 =",
+			"answer":240
+		},
+		{
+			"question":"900 x 5 =",
+			"answer":4500
+		},
+		{
+			"question":"60 x 7 =",
+			"answer":420
+		},
+		{
+			"question":"700 x 9 =",
+			"answer":6300
+		},
+		{
+			"question":"9 x 500 =",
+			"answer":4500
+		},
+		{
+			"question":"40 x 6 =",
+			"answer":240
+		},
+		{
+			"question":"90 x 8 =",
+			"answer":720
+		},
+		{
+			"question":"300 x 8 =",
+			"answer":2400
+		},
+		{
+			"question":"120 ÷ 6 =",
+			"answer":20
+		},
+		{
+			"question":"96 ÷ 8 =",
+			"answer":12
+		},
+		{
+			"question":"70 x 50 =",
+			"answer":3500
+		},
+		{
+			"question":"6300 ÷ 7 =",
+			"answer":900
+		},
+		{
+			"question":"72 ÷ 6 =",
+			"answer":12
+		},
+		{
+			"question":"200 x 4 =",
+			"answer":800
+		},
+		{
+			"question":"72 ÷ 6 =",
+			"answer":12
+		}
+	]
+}

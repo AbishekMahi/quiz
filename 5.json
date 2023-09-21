@@ -1,0 +1,404 @@
+{
+	"records":[
+		{
+			"question":"2 x 4 =",
+			"answer":8
+		},
+		{
+			"question":"6 x 2 =",
+			"answer":12
+		},
+		{
+			"question":"5 x 5 =",
+			"answer":25
+		},
+		{
+			"question":"2 x 8 =",
+			"answer":16
+		},
+		{
+			"question":"8 x 5 =",
+			"answer":40
+		},
+		{
+			"question":"4 x 7 =",
+			"answer":28
+		},
+		{
+			"question":"9 x 3 =",
+			"answer":27
+		},
+		{
+			"question":"7 x 6 =",
+			"answer":42
+		},
+		{
+			"question":"8 x 4 =",
+			"answer":32
+		},
+		{
+			"question":"10 x 2 =",
+			"answer":20
+		},
+		{
+			"question":"1 x 9 =",
+			"answer":9
+		},
+		{
+			"question":"8 x 6 =",
+			"answer":48
+		},
+		{
+			"question":"9 x 4 =",
+			"answer":36
+		},
+		{
+			"question":"5 x 6 =",
+			"answer":30
+		},
+		{
+			"question":"5 x 9 =",
+			"answer":45
+		},
+		{
+			"question":"7 x 5 =",
+			"answer":35
+		},
+		{
+			"question":"6 x 8 =",
+			"answer":48
+		},
+		{
+			"question":"9 x 9 =",
+			"answer":81
+		},
+		{
+			"question":"10 x 5 =",
+			"answer":50
+		},
+		{
+			"question":"7 x 7 =",
+			"answer":49
+		},
+		{
+			"question":"3 x 8 =",
+			"answer":24
+		},
+		{
+			"question":"2 x 5 =",
+			"answer":10
+		},
+		{
+			"question":"3 x 1 =",
+			"answer":3
+		},
+		{
+			"question":"9 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"7 x 1 =",
+			"answer":7
+		},
+		{
+			"question":"4 x 6 =",
+			"answer":24
+		},
+		{
+			"question":"9 x 6 =",
+			"answer":54
+		},
+		{
+			"question":"10 x 10 =",
+			"answer":100
+		},
+		{
+			"question":"4 x 4 =",
+			"answer":16
+		},
+		{
+			"question":"2 x 7 =",
+			"answer":14
+		},
+		{
+			"question":"8 x 1 =",
+			"answer":8
+		},
+		{
+			"question":"8 x 7 =",
+			"answer":56
+		},
+		{
+			"question":"9 x 2 =",
+			"answer":18
+		},
+		{
+			"question":"6 x 8 =",
+			"answer":48
+		},
+		{
+			"question":"2 x 1 =",
+			"answer":2
+		},
+		{
+			"question":"5 x 4 =",
+			"answer":20
+		},
+		{
+			"question":"8 x 9 =",
+			"answer":72
+		},
+		{
+			"question":"10 x 9 =",
+			"answer":90
+		},
+		{
+			"question":"5 x 5 =",
+			"answer":25
+		},
+		{
+			"question":"7 x 8 =",
+			"answer":56
+		},
+		{
+			"question":"3 x 4 =",
+			"answer":12
+		},
+		{
+			"question":"7 x 3 =",
+			"answer":21
+		},
+		{
+			"question":"8 x 4 =",
+			"answer":32
+		},
+		{
+			"question":"9 x 4 =",
+			"answer":36
+		},
+		{
+			"question":"6 x 5 =",
+			"answer":30
+		},
+		{
+			"question":"7 x 10 =",
+			"answer":70
+		},
+		{
+			"question":"8 x 2 =",
+			"answer":16
+		},
+		{
+			"question":"8 x 5 =",
+			"answer":40
+		},
+		{
+			"question":"7 x 6 =",
+			"answer":42
+		},
+		{
+			"question":"4 x 9 =",
+			"answer":36
+		},
+		{
+			"question":"8 x 8 =",
+			"answer":64
+		},
+		{
+			"question":"7 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"5 x 4 =",
+			"answer":20
+		},
+		{
+			"question":"10 x 6 =",
+			"answer":60
+		},
+		{
+			"question":"8 x 1 =",
+			"answer":8
+		},
+		{
+			"question":"5 x 9 =",
+			"answer":45
+		},
+		{
+			"question":"8 x 5 =",
+			"answer":40
+		},
+		{
+			"question":"6 x 1 =",
+			"answer":6
+		},
+		{
+			"question":"4 x 0 =",
+			"answer":0
+		},
+		{
+			"question":"7 x 9 =",
+			"answer":63
+		},
+		{
+			"question":"6 x 4 =",
+			"answer":24
+		},
+		{
+			"question":"5 x 8 =",
+			"answer":40
+		},
+		{
+			"question":"9 x 6 =",
+			"answer":54
+		},
+		{
+			"question":"0 x 6 =",
+			"answer":0
+		},
+		{
+			"question":"1 x 9 =",
+			"answer":9
+		},
+		{
+			"question":"8 x 2 =",
+			"answer":16
+		},
+		{
+			"question":"7 x 5 =",
+			"answer":35
+		},
+		{
+			"question":"7 x 6 =",
+			"answer":42
+		},
+		{
+			"question":"9 x 8 =",
+			"answer":72
+		},
+		{
+			"question":"8 x 9 =",
+			"answer":72
+		},
+		{
+			"question":"6 x 3 =",
+			"answer":18
+		},
+		{
+			"question":"7 x 4 =",
+			"answer":28
+		},
+		{
+			"question":"9 x 2 =",
+			"answer":18
+		},
+		{
+			"question":"3 x 7 =",
+			"answer":21
+		},
+		{
+			"question":"7 x 9 =",
+			"answer":63
+		},
+		{
+			"question":"0 x 5 =",
+			"answer":0
+		},
+		{
+			"question":"10 x 4 =",
+			"answer":40
+		},
+		{
+			"question":"8 x 10 =",
+			"answer":80
+		},
+		{
+			"question":"1 x 2 =",
+			"answer":2
+		},
+		{
+			"question":"3 x 2 =",
+			"answer":6
+		},
+		{
+			"question":"33 ÷  3 =",
+			"answer":11
+		},
+		{
+			"question":"36 ÷ 6 =",
+			"answer":6
+		},
+		{
+			"question":"36 ÷ 9 =",
+			"answer":4
+		},
+		{
+			"question":"12 ÷ 6 =",
+			"answer":2
+		},
+		{
+			"question":"42 ÷ 6 =",
+			"answer":7
+		},
+		{
+			"question":"40 ÷ 10",
+			"answer":4
+		},
+		{
+			"question":"70 ÷ 7 =",
+			"answer":10
+		},
+		{
+			"question":"48 ÷ 8 =",
+			"answer":6
+		},
+		{
+			"question":"45 ÷ 5 =",
+			"answer":9
+		},
+		{
+			"question":"24 ÷ 2",
+			"answer":12
+		},
+		{
+			"question":"14 ÷ 2 =",
+			"answer":7
+		},
+		{
+			"question":"10 ÷ 5 =",
+			"answer":2
+		},
+		{
+			"question":"54 ÷ 6 =",
+			"answer":9
+		},
+		{
+			"question":"72 ÷ 8 =",
+			"answer":9
+		},
+		{
+			"question":"100 ÷ 10 =",
+			"answer":10
+		},
+		{
+			"question":"32 ÷ 8 =",
+			"answer":4
+		},
+		{
+			"question":"36 ÷ 4 =",
+			"answer":9
+		},
+		{
+			"question":"10 ÷ 1 =",
+			"answer":10
+		},
+		{
+			"question":"15 ÷ 5 =",
+			"answer":3
+		},
+		{
+			"question":"25 ÷ 5 =",
+			"answer":5
+		}
+	]
+}
